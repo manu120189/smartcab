@@ -1,0 +1,148 @@
+/-----------------------------------------
+| State-action rewards from Q-Learning
+\-----------------------------------------
+
+left,green,False,True
+ -- forward : 40.80
+ -- None : -76.30
+ -- right : 148.29
+ -- left : -686.45
+
+forward,red,True,True
+ -- forward : -805.54
+ -- None : 156.42
+ -- right : -141.50
+ -- left : -596.29
+
+left,red,True,True
+ -- forward : -1000.71
+ -- None : 157.42
+ -- right : -325.80
+ -- left : -533.12
+
+right,red,False,True
+ -- forward : -853.83
+ -- None : 119.59
+ -- right : 268.82
+ -- left : -1012.96
+
+right,red,True,True
+ -- forward : -679.53
+ -- None : 116.78
+ -- right : -178.93
+ -- left : -621.83
+
+left,red,False,True
+ -- forward : -902.25
+ -- None : 415.09
+ -- right : 72.10
+ -- left : -1101.63
+
+left,green,True,True
+ -- forward : 53.96
+ -- None : -58.19
+ -- right : 18.22
+ -- left : -318.89
+
+forward,green,True,False
+ -- forward : 255.03
+ -- None : -240.85
+ -- right : 36.69
+ -- left : 39.04
+
+forward,green,False,True
+ -- forward : 459.07
+ -- None : -104.54
+ -- right : 39.30
+ -- left : -739.15
+
+left,red,False,False
+ -- forward : -938.12
+ -- None : 379.46
+ -- right : 50.88
+ -- left : -1114.58
+
+left,green,True,False
+ -- forward : 30.54
+ -- None : -178.42
+ -- right : 32.12
+ -- left : 226.87
+
+left,red,True,False
+ -- forward : -899.45
+ -- None : 184.59
+ -- right : -366.78
+ -- left : -990.30
+
+forward,red,True,False
+ -- forward : -1152.40
+ -- None : 246.02
+ -- right : -425.64
+ -- left : -946.95
+
+right,green,True,False
+ -- forward : 37.23
+ -- None : -172.80
+ -- right : 144.13
+ -- left : 32.27
+
+right,red,True,False
+ -- forward : -1206.28
+ -- None : 178.00
+ -- right : -205.75
+ -- left : -797.76
+
+right,red,False,False
+ -- forward : -727.30
+ -- None : 124.67
+ -- right : 312.24
+ -- left : -896.80
+
+right,green,True,True
+ -- forward : 21.82
+ -- None : -29.70
+ -- right : 126.14
+ -- left : -288.44
+
+forward,red,False,True
+ -- forward : -947.90
+ -- None : 559.35
+ -- right : 47.71
+ -- left : -1535.18
+
+right,green,False,True
+ -- forward : 27.22
+ -- None : -96.93
+ -- right : 221.58
+ -- left : -429.09
+
+forward,green,False,False
+ -- forward : 419.82
+ -- None : -364.03
+ -- right : 58.20
+ -- left : 48.62
+
+forward,green,True,True
+ -- forward : 193.48
+ -- None : -70.03
+ -- right : 20.61
+ -- left : -366.62
+
+left,green,False,False
+ -- forward : 48.81
+ -- None : -417.70
+ -- right : 71.17
+ -- left : 344.66
+
+forward,red,False,False
+ -- forward : -1439.07
+ -- None : 475.53
+ -- right : 66.20
+ -- left : -1235.31
+
+right,green,False,False
+ -- forward : 49.57
+ -- None : -348.86
+ -- right : 258.45
+ -- left : 40.02
+
